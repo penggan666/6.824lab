@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="838c29fc-a1b0-4ec6-bf54-92ce262806b6" name="ganp">
+        <fileTransfer accessType="SFTP" host="10.11.6.119" port="22" sshConfigId="d79c4f69-3686-4ec2-ac95-92762ab7e41a" sshConfig="ganp@10.11.6.119:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

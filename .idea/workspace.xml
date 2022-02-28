@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4679816-04ea-4712-b554-f11895008cb2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/kvraft/client.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/kvraft/client.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kvraft/common.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/kvraft/common.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kvraft/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/kvraft/server.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/raft/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/raft/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/raft/raft.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/raft/raft.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+    <option name="useGoPathFromSystemEnvironment" value="false" />
+  </component>
+  <component name="ProjectId" id="1lgWu0iAaRz2qubuldHiJ073DSc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../etcd-3.4.15" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RunManager" selected="Go Test.gobench kvraft">
+    <configuration name="TestFigure8Unreliable2C in raft" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="6.824" />
+      <working_directory value="$PROJECT_DIR$/src/raft" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="raft" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestFigure8Unreliable2C\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInitialElection2A in test_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="6.824" />
+      <working_directory value="$PROJECT_DIR$/src/raft" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/raft/test_test.go" />
+      <pattern value="^\QTestInitialElection2A\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSnapshotRPC3B in kvraft" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="6.824" />
+      <working_directory value="$PROJECT_DIR$/src/kvraft" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="kvraft" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestSnapshotRPC3B\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test kvraft" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="6.824" />
+      <working_directory value="$PROJECT_DIR$/src/kvraft" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="kvraft" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gobench kvraft" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="6.824" />
+      <working_directory value="$PROJECT_DIR$/src/kvraft" />
+      <framework value="gobench" />
+      <kind value="PACKAGE" />
+      <package value="kvraft" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.gobench kvraft" />
+        <item itemvalue="Go Test.go test kvraft" />
+        <item itemvalue="Go Test.TestSnapshotRPC3B in kvraft" />
+        <item itemvalue="Go Test.TestFigure8Unreliable2C in raft" />
+        <item itemvalue="Go Test.TestInitialElection2A in test_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="86" y="267" key="#SSH_Configurations" timestamp="1620390523429">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="86" y="267" key="#SSH_Configurations/0.0.2194.1204/3840.713.1920.1050@0.0.2194.1204" timestamp="1620390523429" />
+    <state x="4881" y="794" width="798" height="888" key="DiffContextDialog" timestamp="1620826490864">
+      <screen x="3840" y="713" width="1920" height="1050" />
+    </state>
+    <state x="694" y="53" width="532" height="583" key="DiffContextDialog/0.0.1280.689@0.0.1280.689" timestamp="1620655714565" />
+    <state x="1190" y="93" width="911" height="1018" key="DiffContextDialog/0.0.2194.1204/3840.713.1920.1050@0.0.2194.1204" timestamp="1620820839546" />
+    <state x="4881" y="794" width="798" height="888" key="DiffContextDialog/0.0.2194.1204/3840.713.1920.1050@3840.713.1920.1050" timestamp="1620826490864" />
+    <state x="845" y="327" key="FileChooserDialogImpl" timestamp="1615861392993">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="845" y="327" key="FileChooserDialogImpl/0.0.2194.1204/3840.713.1920.1050@0.0.2194.1204" timestamp="1615861392993" />
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom" timestamp="1620826496784">
+      <screen x="3840" y="713" width="1920" height="1050" />
+    </state>
+    <state width="1054" height="287" key="GridCell.Tab.0.bottom/0.0.2194.1204/3840.713.1920.1050@0.0.2194.1204" timestamp="1620822545172" />
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom/0.0.2194.1204/3840.713.1920.1050@3840.713.1920.1050" timestamp="1620826496784" />
+    <state width="1877" height="287" key="GridCell.Tab.0.center" timestamp="1620826496784">
+      <screen x="3840" y="713" width="1920" height="1050" />
+    </state>
+    <state width="1054" height="287" key="GridCell.Tab.0.center/0.0.2194.1204/3840.713.1920.1050@0.0.2194.1204" timestamp="1620822545172" />
+    <state width="1877" height="287" key="GridCell.Tab.0.center/0.0.2194.1204/3840.713.1920.1050@3840.713.1920.1050" timestamp="1620826496784" />
+    <state width="1877" height="287" key="GridCell.Tab.0.left" timestamp="1620826496784">
+      <screen x="3840" y="713" width="1920" height="1050" />
+    </state>
+    <state width="1054" height="287" key="GridCell.Tab.0.left/0.0.2194.1204/3840.713.1920.1050@0.0.2194.1204" timestamp="1620822545172" />
+    <state width="1877" height="287" key="GridCell.Tab.0.left/0.0.2194.1204/3840.713.1920.1050@3840.713.1920.1050" timestamp="1620826496784" />
+    <state width="1877" height="287" key="GridCell.Tab.0.right" timestamp="1620826496784">
+      <screen x="3840" y="713" width="1920" height="1050" />
+    </state>
+    <state width="1054" height="287" key="GridCell.Tab.0.right/0.0.2194.1204/3840.713.1920.1050@0.0.2194.1204" timestamp="1620822545172" />
+    <state width="1877" height="287" key="GridCell.Tab.0.right/0.0.2194.1204/3840.713.1920.1050@3840.713.1920.1050" timestamp="1620826496784" />
+    <state x="11" y="267" key="SettingsEditor" timestamp="1620390524116">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="11" y="267" key="SettingsEditor/0.0.2194.1204/3840.713.1920.1050@0.0.2194.1204" timestamp="1620390524116" />
+    <state x="433" y="379" width="595" height="568" key="find.popup" timestamp="1620627676315">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="433" y="379" width="595" height="568" key="find.popup/0.0.2194.1204/3840.713.1920.1050@0.0.2194.1204" timestamp="1620627676315" />
+    <state x="1514" y="494" key="publish.login" timestamp="1620390531111">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="1514" y="494" key="publish.login/0.0.2194.1204/3840.713.1920.1050@0.0.2194.1204" timestamp="1620390531111" />
+    <state x="760" y="266" width="672" height="678" key="search.everywhere.popup" timestamp="1620551756576">
+      <screen x="0" y="0" width="2194" height="1204" />
+    </state>
+    <state x="760" y="266" width="672" height="678" key="search.everywhere.popup/0.0.2194.1204/3840.713.1920.1050@0.0.2194.1204" timestamp="1620551756576" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/raft/util.go</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="10.11.6.119" id="d79c4f69-3686-4ec2-ac95-92762ab7e41a" port="22" nameFormat="DESCRIPTIVE" username="ganp" />
+    </configs>
+  </component>
+</project>
